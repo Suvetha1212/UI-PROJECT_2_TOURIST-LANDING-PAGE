@@ -16,7 +16,7 @@ It is designed to inspire travelers with a modern, clean, and visually appealing
 
 ## 📸 Project Preview
 
-*PROJECT PREVIEW (https://www.figma.com/proto/WtPiP27PtmlMJwn7bnuoUY/TOURIST---LANDING-ANIMATION-PAGE?node-id=24-3&p=f&t=f3054QTYb62PQiKh-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A3))*
+*(PROJECT PREVIEW) - (https://www.figma.com/proto/WtPiP27PtmlMJwn7bnuoUY/TOURIST---LANDING-ANIMATION-PAGE?node-id=24-3&p=f&t=f3054QTYb62PQiKh-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A3))*
 
 ---
 
